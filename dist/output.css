@@ -723,6 +723,11 @@ video {
   transition-duration: 300ms;
 }
 
+html,
+body{
+  scroll-behavior: smooth;
+}
+
 .secondary-title {
   font-size: 1.875rem;
   line-height: 2.25rem;
